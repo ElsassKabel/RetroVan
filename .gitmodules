@@ -5,3 +5,6 @@
 [submodule "pcb/Type-C.pretty"]
 	path = pcb/Type-C.pretty
 	url = git@github.com:ai03-2725/Type-C.pretty
+[submodule "pcb/keyswitch-kicad-library"]
+	path = pcb/keyswitch-kicad-library
+	url = git@github.com:perigoso/keyswitch-kicad-library
