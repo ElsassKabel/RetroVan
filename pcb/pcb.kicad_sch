@@ -2819,7 +2819,7 @@
     (path "/a91e9e06-397e-4f4e-af1a-97f533691476/8dbe5653-cf29-49b9-9a78-a3411352a68c"
       (reference "D36") (unit 1) (value "DIODE") (footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal")
     )
-    (path "/a91e9e06-397e-4f4e-af1a-97f533691476/9ddab7e8-1ef7-49ba-a8ea-bceed3fe245f"
+    (path "/a91e9e06-397e-4f4e-af1a-97f533691476/d608f451-5c0f-4aa1-ad9c-a3e2a324729f"
       (reference "D37") (unit 1) (value "DIODE") (footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal")
     )
     (path "/a91e9e06-397e-4f4e-af1a-97f533691476/fc456389-9d41-43c5-b639-11c3ab647a6e"
