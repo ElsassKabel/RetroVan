@@ -1,0 +1,7 @@
+[submodule "kicad_lib"]
+	path = pcb/kicad_lib
+	url = git@github.com:ElsassKabel/kicad_lib
+	branch = main
+[submodule "pcb/Type-C.pretty"]
+	path = pcb/Type-C.pretty
+	url = git@github.com:ai03-2725/Type-C.pretty
