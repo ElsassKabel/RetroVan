@@ -4,6 +4,3 @@
 [submodule "pcb/keyswitch-kicad-library"]
 	path = pcb/keyswitch-kicad-library
 	url = git@github.com:perigoso/keyswitch-kicad-library
-[submodule "pcb/kicad_lib"]
-	path = pcb/kicad_lib
-	url = git@github.com:ElsassKabel/kicad_lib.git
