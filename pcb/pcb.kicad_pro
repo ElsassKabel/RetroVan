@@ -56,7 +56,11 @@
         }
       ],
       "drc_exclusions": [
-        "silk_overlap|148677630|43440000|b236268c-f361-40ce-baec-469e56ee5c8d|5c488b78-0da5-43a2-95d3-30c56a0b5e7b"
+        "holes_co_located|217963750|134937500|b3ed5717-f8ec-49dc-9064-969d42885787|d1637f99-9324-4b11-9038-6a366e4170f8",
+        "holes_co_located|219233750|132397500|c81df26f-88ea-441e-852c-9d0504e407e2|4470d7a6-6765-4bda-9e2b-7aa43fac7704",
+        "holes_co_located|223043750|134937500|956420c4-b72d-4a43-bd5c-283fe51a3396|707ce5ee-174f-4a6e-bfdc-2af679be435a",
+        "holes_co_located|225583750|129857500|54165b82-a841-4b6e-a0de-e85a8efb5aef|ec0240fe-1709-4fd1-9ae8-05550269b731",
+        "holes_co_located|228123750|134937500|219ea818-698e-4be0-970b-30f9b5d062f9|5828a814-9c09-40fe-9b2d-84549b046345"
       ],
       "meta": {
         "version": 2
@@ -404,8 +408,8 @@
       "idf": "",
       "netlist": "",
       "specctra_dsn": "",
-      "step": "",
-      "vrml": ""
+      "step": "pcb.step",
+      "vrml": "pcb.wrl"
     },
     "page_layout_descr_file": ""
   },

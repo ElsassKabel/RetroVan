@@ -1,25 +1,25 @@
-# EK_Van
+# RetroVan
 🚐 *Retro style [Minivan](https://trashman.wiki/keyboards/minivan) keyboard*
 
-[![release](https://img.shields.io/github/release/ElsassKabel/EK_Van.svg?style=flat-square&label=Release&logo=github&logoColor=fafafa&colorA=191b25&colorB=32cb8b)](https://github.com/ElsassKabel/EK_Van/releases/latest)
-[![issues](https://img.shields.io/github/license/ElsassKabel/EK_Van.svg?style=flat-square&label=License&colorA=191b25)](https://github.com/ElsassKabel/EK_Van/blob/master/LICENSE)
-[![issues](https://img.shields.io/github/issues/ElsassKabel/EK_Van.svg?style=flat-square&label=Issues&colorA=191b25)](https://github.com/ElsassKabel/EK_Van/issues)
-[![stars](https://img.shields.io/github/stars/ElsassKabel/EK_Van.svg?style=flat-square&label=Stars&colorA=191b25)](https://github.com/ElsassKabel/EK_Van/stargazers)
-[![forks](https://img.shields.io/github/forks/ElsassKabel/EK_Van.svg?style=flat-square&label=Forks&colorA=191b25)](https://github.com/ElsassKabel/EK_Van/network)
+[![release](https://img.shields.io/github/release/ElsassKabel/RetroVan.svg?style=flat-square&label=Release&logo=github&logoColor=fafafa&colorA=191b25&colorB=32cb8b)](https://github.com/ElsassKabel/RetroVan/releases/latest)
+[![issues](https://img.shields.io/github/license/ElsassKabel/RetroVan.svg?style=flat-square&label=License&colorA=191b25)](https://github.com/ElsassKabel/RetroVan/blob/master/LICENSE)
+[![issues](https://img.shields.io/github/issues/ElsassKabel/RetroVan.svg?style=flat-square&label=Issues&colorA=191b25)](https://github.com/ElsassKabel/RetroVan/issues)
+[![stars](https://img.shields.io/github/stars/ElsassKabel/RetroVan.svg?style=flat-square&label=Stars&colorA=191b25)](https://github.com/ElsassKabel/RetroVan/stargazers)
+[![forks](https://img.shields.io/github/forks/ElsassKabel/RetroVan.svg?style=flat-square&label=Forks&colorA=191b25)](https://github.com/ElsassKabel/RetroVan/network)
 
 | Front side | Back side |
 | ----- | ----- |
-| ![Front side](./assets/front.jpg) | ![Back side](./assets/back.jpg) |
+| ![Front side](./assets/pcb-front.png) | ![Back side](./assets/pcb-back.png) |
 
 <!-- ## ✨ Pros:
 
 - 🌈 Easy to customize with QMK and Vial
 - 💅 Compact and beautiful
-- 🦄 Open source
+- 🦄 Open source -->
 
 ## 📖 Documentation
 
-*🚧 WIP* -->
+*🚧 WIP*
 
 <!-- ## 👀 Showcase -->
 
@@ -32,13 +32,13 @@
 
 <!-- ## 🙏 Thanks
 * [**@username**](https://github.com/username) - What I do
-* [And many more!](https://github.com/ElsassKabel/EK_Van/graphs/contributors) -->
+* [And many more!](https://github.com/ElsassKabel/RetroVan/graphs/contributors) -->
 
 ## 🤝 Contributing
 
-<!-- Before contributing to this project, make sure you have read the [contribution guidelines](https://github.com/ElsassKabel/EK_Van/blob/main/CONTRIBUTING.md)! -->
+<!-- Before contributing to this project, make sure you have read the [contribution guidelines](https://github.com/ElsassKabel/RetroVan/blob/main/CONTRIBUTING.md)! -->
 
-1. Fork it (https://github.com/ElsassKabel/EK_Van/fork)
+1. Fork it (https://github.com/ElsassKabel/RetroVan/fork)
 2. Create your feature branch (`git checkout -b feature/fooBar`)
 3. Commit your changes (`git commit -am 'Add some fooBar'`)
 4. Push to the branch (`git push origin feature/fooBar`)
@@ -52,4 +52,4 @@
 
 ## 📝 License
 
-This project is open source and available under the [MIT License](https://github.com/ElsassKabel/EK_Van/blob/main/LICENSE.md)
+This project is open source and available under the [MIT License](https://github.com/ElsassKabel/RetroVan/blob/main/LICENSE.md)
