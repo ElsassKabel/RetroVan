@@ -55,9 +55,7 @@
           "width": 0.0
         }
       ],
-      "drc_exclusions": [
-        "silk_overlap|148677630|43440000|b236268c-f361-40ce-baec-469e56ee5c8d|5c488b78-0da5-43a2-95d3-30c56a0b5e7b"
-      ],
+      "drc_exclusions": [],
       "meta": {
         "version": 2
       },
@@ -404,8 +402,8 @@
       "idf": "",
       "netlist": "",
       "specctra_dsn": "",
-      "step": "",
-      "vrml": ""
+      "step": "pcb.step",
+      "vrml": "pcb.wrl"
     },
     "page_layout_descr_file": ""
   },
