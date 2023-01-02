@@ -2553,7 +2553,7 @@
     (in_bom yes) (on_board yes)
     (uuid a16db100-1f9c-410b-a4ba-60143c88d520)
     (property "Reference" "R6" (id 0) (at 45.72 142.24 90))
-    (property "Value" "1.5k" (id 1) (at 45.72 147.32 90))
+    (property "Value" "10k" (id 1) (at 45.72 147.32 90))
     (property "Footprint" "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal" (id 2) (at 45.72 144.78 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -3091,7 +3091,7 @@
       (reference "R5") (unit 1) (value "10k") (footprint "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal")
     )
     (path "/a16db100-1f9c-410b-a4ba-60143c88d520"
-      (reference "R6") (unit 1) (value "1.5k") (footprint "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal")
+      (reference "R6") (unit 1) (value "10k") (footprint "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal")
     )
     (path "/51cf82a7-fc50-4453-808c-b7780286c821"
       (reference "R7") (unit 1) (value "1.5k") (footprint "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal")
